@@ -1,2 +1,3 @@
-# Web4
-Web4 = crypto-native capital. $WeSoIn: culture coin on Solana. High risk. Info: wesoin.fun/brief.html
+Web4 = crypto-native capital. $WeSoIn is a culture coin on Solana.
+Verified mint + risks: https://wesoin.fun/brief.html
+High risk. No promises. DYOR.
